@@ -18,7 +18,7 @@ const team = [
     email: '#',
   },
   {
-    name: 'Elena Rodriguez',
+    name: 'Guruvendra Tiwari',
     role: 'Audit Manager',
     image:
       'https://i.ibb.co/kDVy6tG/guru-sir.jpg',
