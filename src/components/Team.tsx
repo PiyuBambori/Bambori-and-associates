@@ -15,15 +15,15 @@ const team = [
     image:
       '',
     linkedin: '#',
-    email: 'michael@bamboriassociates.com',
+    email: '#',
   },
   {
     name: 'Elena Rodriguez',
     role: 'Audit Manager',
     image:
-      '',
-    linkedin: '#',
-    email: 'elena@bamboriassociates.com',
+      'https://i.ibb.co/kDVy6tG/guru-sir.jpg',
+    linkedin: '',
+    email: 'guruvendra0497504@gmail.com',
   },
 ];
 
